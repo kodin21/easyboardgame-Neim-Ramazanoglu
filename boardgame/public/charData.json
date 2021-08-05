@@ -1,0 +1,10 @@
+[
+    {
+        "id":"batman",
+        "src":"./images/batman.png"
+    },
+    {
+        "id":"mario",
+        "src":"/images/mario.jpg"
+    }
+]
